@@ -3,3 +3,7 @@ Name: SHALLIS
 My favorite color is: BLUE
 
 My favorite animal is: HUMANS
+
+My birthday is: JUNE 8, 2005
+
+My favorite author is: BRANDON SANDERSON
